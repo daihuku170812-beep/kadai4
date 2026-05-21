@@ -28,3 +28,5 @@ class Student:
 
     def __repr__(self):
         return f"Student(id={self.student_id}, name={self.name})"
+
+# 修正2: メソッドの説明を追記
