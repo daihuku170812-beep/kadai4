@@ -56,3 +56,5 @@ class AttendanceManager:
             print("  全員出席")
         for s in absent:
             print(f"  - {s.name} ({s.student_id})")
+
+# issue #1: 出席率警告機能を追加
