@@ -56,3 +56,5 @@ class AttendanceManager:
             print("  全員出席")
         for s in absent:
             print(f"  - {s.name} ({s.student_id})")
+
+# 修正3: サマリー機能を追加予定
